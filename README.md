@@ -89,48 +89,47 @@
                 <p class="text-center" style="padding-top: 10px;">Creativity And is our name, perfectionism is our trait, and professionalism is what we promise.</p>
                 <div class="style text-center">
                 <div class="sub-child1">
-                    <img src="images/works1.png" width="300px" height="200px">
+                    <img src="images/works1.png" >
                 </div>
                 <div class="sub-child2">
-                    <img src="images/works2.jpeg" width="300px" height="200px">
+                    <img src="images/works2.jpeg" >
                 </div>
                 <div class="sub-child3">
-                    <img src="images/works3.jpeg" width="300px" height="200px">
+                    <img src="images/works3.jpeg" >
                 </div>
                 <div class="sub-child4">
-                    <img src="images/works4.jpeg" width="300px" height="200px">
+                    <img src="images/works4.jpeg" >
                 </div>
                 <div class="sub-child5">
-                    <img src="images/works5.jpeg" width="300px" height="200px" >
+                    <img src="images/works5.jpeg"  >
                 </div>
                 <div class="sub-child6">
-                    <img src="images/works6.jpeg" width="300px" height="200px">
+                    <img src="images/works6.jpeg">
                 </div>
 
                 <div class="sub-child7">
-                    <img src="images/works7.jpeg" width="300px" height="200px" >
+                    <img src="images/works7.jpeg"  >
                 </div>
                 <div class="sub-child8">
-                    <img src="images/asly10-2.jpg" width="300px" height="200px">
+                    <img src="images/asly10-2.jpg" >
                 </div>
                 <div class="sub-child9">
-                    <img src="images/02.jpeg" width="300px" height="200px" >
+                    <img src="images/02.jpeg"  >
                 </div>
                 <div class="sub-child10">
-                    <img src="images/01.jpeg" width="300px" height="200px">
+                    <img src="images/01.jpeg" >
                 </div>
                 <div class="sub-child11">
-                    <img src="images/asly6.jpeg" width="300px" height="200px">
+                    <img src="images/asly6.jpeg" >
                 </div>
                 <div class="sub-child12">
-                    <img src="images/works6.jpeg" width="300px" height="200px">
+                    <img src="images/works6.jpeg" >
                 </div>
                 </div>
                 <button>Show More</button>
             </div>
         </div>
         <br><br>
-        
         <div class="team" id="Team">
             <div class="container">
                 <h2>Our <span class="main-color">Team</span></h2>
